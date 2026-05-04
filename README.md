@@ -30,6 +30,6 @@ A core data engineering challenge involved sourcing the data: MLS and Local Logi
 
 ---
 
-![Interactive Map](assets/interactiveinfo.png)
+![Interactive Map](assets/interactiveintro.png)
 
 ![Clustering Insights](assets/insights.png)
